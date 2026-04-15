@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>emailService-hystrix</artifactId>
+	<artifactId>paymentservice-hystrix</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>emailService-hystrix</name>
+	<name>paymentservice-hystrix</name>
 	<description>Application Deployed to Pivotal Cloud</description>
 
 	<properties>
